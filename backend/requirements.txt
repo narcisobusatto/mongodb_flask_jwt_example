@@ -1,0 +1,12 @@
+Flask
+Flask-RESTful
+Flask-JWT
+Flask-cors
+Flask-mongoengine
+PyJWT
+flask_jwt_extended
+requests
+uwsgi
+pyyaml
+MongoEngine
+gunicorn
